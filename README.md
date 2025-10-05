@@ -1,6 +1,6 @@
 # 👋 Welcome to Sardar IT
 
-![Header Image]([https://user-images.githubusercontent.com/yourusername/header-image.gif](https://github.com/sardarit-bd/sardarit-bd/blob/main/Sardarit-logo-updated-1.webp))
+![Header Image](https://github.com/sardarit-bd/sardarit-bd/blob/main/Sardarit-logo-updated-1.webp)
 
 **Sardar IT** is a passionate team of developers working with cutting-edge technologies to build modern web and mobile applications. We specialize in full-stack development, creative solutions, and digital innovation.  
 
@@ -9,11 +9,12 @@
 ## 💻 Technologies We Work With
 
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg" alt="WordPress" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" width="60" height="60"/>
