@@ -34,14 +34,26 @@
 
 ---
 
-## 📈 Stats & Badges
+## ⚡ Our Work Process
+
+We follow a structured workflow to ensure quality and timely delivery for all projects.
 
 <p align="center">
-  ![GitHub stars](https://img.shields.io/github/stars/sardarit-bd?style=for-the-badge)
-  ![GitHub forks](https://img.shields.io/github/forks/sardarit-bd?style=for-the-badge)
-  ![GitHub issues](https://img.shields.io/github/issues/sardarit-bd?style=for-the-badge)
-  ![GitHub license](https://img.shields.io/github/license/sardarit-bd?style=for-the-badge)
+  <img src="https://img.shields.io/badge/1.-Plan-blue?style=for-the-badge" alt="Plan" style="margin:5px"/>
+  <img src="https://img.shields.io/badge/2.-Design-green?style=for-the-badge" alt="Design" style="margin:5px"/>
+  <img src="https://img.shields.io/badge/3.-Develop-orange?style=for-the-badge" alt="Develop" style="margin:5px"/>
+  <img src="https://img.shields.io/badge/4.-Test-red?style=for-the-badge" alt="Test" style="margin:5px"/>
+  <img src="https://img.shields.io/badge/5.-Deploy-purple?style=for-the-badge" alt="Deploy" style="margin:5px"/>
 </p>
+
+**Step Details:**
+
+1. **Plan** 📝 – Gather requirements and define project goals.  
+2. **Design** 🎨 – Create UI/UX mockups and prototypes.  
+3. **Develop** 💻 – Build web/mobile applications with clean code.  
+4. **Test** ✅ – QA, bug fixing, and optimization.  
+5. **Deploy** 🚀 – Launch and monitor the project for success.
+
 
 ---
 
