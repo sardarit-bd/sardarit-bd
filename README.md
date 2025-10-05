@@ -8,7 +8,7 @@
 
 ## 💻 Technologies We Work With
 
-<p align="center">
+<p align="center" style="padding:5px; background:#fcfcfc">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg" alt="WordPress" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
@@ -34,9 +34,7 @@
 ---
 
 ## 📫 Connect With Us
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://bd.linkedin.com/company/sardarit212021)  
 
 ---
 
