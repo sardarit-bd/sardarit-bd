@@ -1,4 +1,4 @@
-# 👋 Welcome to **Sardar IT**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=true&width=635&lines=Welcome+To+Sardar+IT.;Your+Vision%2C+Our+Code.;Smart+Software.+Strong+Results.;Engineering+the+Future+of+Business.)](https://git.io/typing-svg)
 
 ![Header Image](https://github.com/sardarit-bd/sardarit-bd/blob/main/Sardarit-logo-updated-1.webp)
 
