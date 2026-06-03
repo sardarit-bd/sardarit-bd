@@ -8,7 +8,7 @@
 ## 💻 Technologies We Work With
 
 <p align="center">
-  <img src="https://github.com/sardarit-bd/sardarit-bd/blob/main/wordpress-removebg-preview.png" alt="WordPress" width="60" height="60" style="margin:5px"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin:5px"/>
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" width="60" height="60" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60" style="margin:5px"/>
+  <img src="https://github.com/sardarit-bd/sardarit-bd/blob/main/wordpress-removebg-preview.png" alt="WordPress" width="60" height="60" style="margin:5px"/>
 </p>
 
 
